@@ -1,4 +1,4 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Sanjay;私の+名前+は+サンジェイです)](https://git.io/typing-svg)
 🔭 I’m currently working on Js , CSS and HTML<br>🤝 I’m looking for help with Coding.<br>🌱 I’m currently learning React JS and TS.<br>💬 Ask me about HTML , CSS.<br>⚡ Fun fact Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.
 
 
