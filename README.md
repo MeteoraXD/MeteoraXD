@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanzay23&label=Profile%20views&color=0e75b6&style=flat" alt="Sanzay23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanzay23&theme=" alt="Sanzay23" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanzay23&theme=onedark" alt="Sanzay23" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 - 💬 Ask me about **Html and CSS**
