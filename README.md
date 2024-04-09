@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Sanjay)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=私の+名前+は+サンジェイです)](https://git.io/typing-svg)<br>
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanzay23&label=Profile%20views&color=0e75b6&style=flat" alt="Sanzay23" /> </p>
 
