@@ -16,7 +16,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sanzay23&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Memes to Cheer you up
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
