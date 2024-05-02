@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Sanjay.)](https://git.io/typing-svg)<br>
-![Alt Text](https://media.giphy.com/media/hYxfXTcDzwzUk/giphy.gif) 
+![Alt Text](https://media.giphy.com/media/hYxfXTcDzwzUk/giphy.gif) ![Alt Text](https://media.giphy.com/media/10or1Jci6okM6I/giphy.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanzay23&label=Profile%20views&color=0e75b6&style=flat" alt="Sanzay23" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanzay23&theme=onedark" alt="Sanzay23" /></a> </p>
 
