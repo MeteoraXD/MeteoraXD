@@ -9,6 +9,7 @@
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.**
 
 <div> <a href="https://twitter.com/Sanjay23" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.reddit.com/user/MeteoraXD/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Reddit_logo_and_wordmark.svg/640px-Reddit_logo_and_wordmark.svg.png" alt="Reddit Logo" width="50"></a>
 <a href="https://github.com/Sanzay23" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/sanzay.x" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:sanjay.pahari098@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
