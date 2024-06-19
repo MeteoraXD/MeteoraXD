@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Sanjay.)](https://git.io/typing-svg)<br>
-![Alt Text](https://media.giphy.com/media/hYxfXTcDzwzUk/giphy.gif) ![Alt Text](https://media.giphy.com/media/10or1Jci6okM6I/giphy.gif)
+![Alt Text](https://media.giphy.com/media/hYxfXTcDzwzUk/giphy.gif) ![Alt Text]([https://media.giphy.com/media/10or1Jci6okM6I/giphy.gif](https://images-ext-1.discordapp.net/external/KKG7bacTUkot0IysL1mkYX7NPxTUQGA-hWjy2uTqdzc/https/media.tenor.com/7oJ9_kMQAOUAAAPo/batman-moon.mp4))
 # 💫 About Me:
 <br>    🌱 I’m currently learning ReactJs and Python<br>    💬 Ask me about Html and CSS<br>    📫 How to reach me sanjay.pahari098@gmail.com<br>    ⚡ Fun fact Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.<br>
 
