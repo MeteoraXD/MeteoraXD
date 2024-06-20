@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Sanjay.)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+Sanjay's+Profile.)](https://git.io/typing-svg)<br>
 ![Alt Text](https://media.giphy.com/media/hYxfXTcDzwzUk/giphy.gif) 
 # 💫 About Me:
 <br>    🌱 I’m currently learning ReactJs and Python<br>    💬 Ask me about Html and CSS<br>    📫 How to reach me sanjay.pahari098@gmail.com<br>    ⚡ Fun fact Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.<br>
