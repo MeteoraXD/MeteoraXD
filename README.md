@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+Sanjay's+Profile.)](https://git.io/typing-svg)<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=私のプロフィールへようこそ.)](https://git.io/typing-svg)<br>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/sBHB9Y0s0YuVq/giphy.gif)
 
 # 💫 About Me:
