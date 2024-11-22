@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+Sanjay's+Profile.)](https://git.io/typing-svg)<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=私のプロフィールへようこそ.)](https://git.io/typing-svg)<br>
-![Alt Text](https://media.giphy.com/media/sBHB9Y0s0YuVq/giphy.gif)
+![Alt Text](https://media.giphy.com/media/sBHB9Y0s0YuVq/giphy.gif)<br>
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB3Z2dqazNrZGRsN3VmcThzODIwY2wzc2swOWRpNXJ4cG4xcWZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
+
 
 # 💫 About Me:
 <br>    🌱 I’m currently learning ReactJs and Python<br>    💬 Ask me about Html and CSS<br>    📫 How to reach me sanjay.pahari098@gmail.com<br>    ⚡ Fun fact Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.<br>
