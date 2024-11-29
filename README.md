@@ -51,9 +51,10 @@
 
 ###
 
-# ☕ I love coffee:
+# ☕ I love coffee
 
 
+# THE GIF REPRESENTS ME HOW I WORK 🐒
 ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBwb3FqN2R3OTI2MDY2d3VoM2VhMXdiOXUybzEyOTByY2I4N2E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSlj8H6LbhuWQ/giphy.gif)
 
 
