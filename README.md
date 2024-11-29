@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=私のプロフィールへようこそ.)](https://git.io/typing-svg)<br>
 ![Alt Text](https://media.giphy.com/media/sBHB9Y0s0YuVq/giphy.gif)<br>
-![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB3Z2dqazNrZGRsN3VmcThzODIwY2wzc2swOWRpNXJ4cG4xcWZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
 
 
 # 💫 About Me:
@@ -12,6 +11,8 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/616119320367464452) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanzay.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-pahari-b85697227/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MeteoraXD) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24573588) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sanjay23) 
 
+
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB3Z2dqazNrZGRsN3VmcThzODIwY2wzc2swOWRpNXJ4cG4xcWZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
 
 
 ###
@@ -47,9 +48,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/i/9c0v0k"  />
-</div>
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBwb3FqN2R3OTI2MDY2d3VoM2VhMXdiOXUybzEyOTByY2I4N2E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSlj8H6LbhuWQ/giphy.gif)
+
 
 ###
 
