@@ -58,10 +58,4 @@
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBwb3FqN2R3OTI2MDY2d3VoM2VhMXdiOXUybzEyOTByY2I4N2E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSlj8H6LbhuWQ/giphy.gif)
 
 
-###
 
----
-[![](https://visitcount.itsvg.in/api?id=SanzayXD&icon=0&color=0)](https://visitcount.itsvg.in) <br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bmq6i2ie0ruqhvchkkv5xwoff)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
