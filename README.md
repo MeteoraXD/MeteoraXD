@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<br>    🌱 I’m currently learning ReactJs and Python<br>    💬 Ask me about Html and CSS<br>    📫 How to reach me sanjay.pahari098@gmail.com / dev.sanjaypahari@gmail.com<br>    ⚡ Fun fact Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.<br>
+<br>    🌱 I’m currently learning ReactJs and Python<br>    💬 Ask me about Html and CSS<br>    📫 How to reach me sanjay.pahari098@gmail.com / dev.sanzay@gmail.com<br>    ⚡ Fun fact Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.<br>
 
 
 ## 🌐 You can contact me here:
