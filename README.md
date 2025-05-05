@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<br>    🌱 I’m currently learning Nextjs and Python<br>    💬 Ask me about Reactjs and Nextjs<br>    📫 How to reach me sanjay.pahari098@gmail.com / dev.sanzay@gmail.com<br>    ⚡ Fun fact Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.<br>              
+<br>    🌱 I’m currently learning Nextjs and Python<br>    💬 Ask me about Reactjs and Nextjs<br>    📫 How to reach me sanjay.pahari098@gmail.com / dev.sanzay@gmail.com<br>    ⚡ Fun fact Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.<br>   *  <img src="https://i.imgur.com/2eLeMt9.png" width="30px">&nbsp; 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑              
 
 
 ## 🌐 You can contact me here:
@@ -17,7 +17,6 @@
 
 ###
 
-![ALT TEXT](https://camo.githubusercontent.com/bd48a707fc2eee97cac2eed553db539b2db5fb9b75d412ef6f15cd5193f26932/68747470733a2f2f692e696d6775722e636f6d2f32654c654d74392e706e67) I use arch btw
 
 
 ## 💻 I have watched 5 minute turorial for these:
