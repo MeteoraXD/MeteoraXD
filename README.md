@@ -17,7 +17,7 @@
 
 ###
 
-[![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)] I use arch btw
+(https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg)] I use arch btw
 
 
 ## 💻 I have watched 5 minute turorial for these:
