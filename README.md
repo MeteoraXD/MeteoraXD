@@ -17,7 +17,7 @@
 
 ###
 
-![ALT TEXT](https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg) I use arch btw
+![ALT TEXT](https://camo.githubusercontent.com/bd48a707fc2eee97cac2eed553db539b2db5fb9b75d412ef6f15cd5193f26932/68747470733a2f2f692e696d6775722e636f6d2f32654c654d74392e706e67) I use arch btw
 
 
 ## 💻 I have watched 5 minute turorial for these:
