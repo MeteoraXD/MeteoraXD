@@ -17,7 +17,7 @@
 
 ###
 
-(https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg)] I use arch btw
+[![arch](https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg)] I use arch btw
 
 
 ## 💻 I have watched 5 minute turorial for these:
