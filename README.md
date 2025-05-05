@@ -17,7 +17,7 @@
 
 ###
 
-[![arch](https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg)] I use arch btw
+![ALT TEXT](https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg) I use arch btw
 
 
 ## 💻 I have watched 5 minute turorial for these:
@@ -61,4 +61,6 @@
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBwb3FqN2R3OTI2MDY2d3VoM2VhMXdiOXUybzEyOTByY2I4N2E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSlj8H6LbhuWQ/giphy.gif)
 
 
+# I LIKE MUSIC
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bmq6i2ie0ruqhvchkkv5xwoff&width={width})
