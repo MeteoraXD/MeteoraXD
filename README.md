@@ -62,4 +62,4 @@
 
 # I LIKE MUSIC
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bmq6i2ie0ruqhvchkkv5xwoff&width={width})
+![BEST ALBUMS](https://drive.google.com/drive/my-drive/banner.png)
