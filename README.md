@@ -62,4 +62,4 @@
 
 # I LIKE MUSIC
 
-<img src="https://imgur.com/a/asd-YBMx9Vu" />
+![Alt text](/home/meteora/Downloads/banner.png)
