@@ -62,4 +62,4 @@
 
 # I LIKE MUSIC
 
-![Alt text](/home/meteora/Downloads/banner.png)
+![Alt text](banner.png)
