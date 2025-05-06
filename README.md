@@ -62,4 +62,6 @@
 
 # I LIKE MUSIC
 
-![BEST ALBUMS](https://drive.google.com/drive/my-drive/banner.png)
+![BEST ALBUMS](https://imgur.com/a/sgvlJpv)
+
+
