@@ -28,6 +28,6 @@
 
 # I LIKE MUSIC
 
-![Alt text](banner.png)
+![Alt text](1.png)
 
 [![](https://visitcount.itsvg.in/api?id=MeteoraXD&icon=0&color=0)](https://visitcount.itsvg.in)
