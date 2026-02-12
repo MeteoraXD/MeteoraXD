@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<br>    🌱 I’m currently learning Nextjs and Python<br>    💬 Ask me about Reactjs and Nextjs<br>    📫 How to reach me sanjay.pahari098@gmail.com / dev.sanzay@gmail.com<br>    ⚡ Fun fact Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.<br>    🕸️ [sanjaypahari.com](https://sanjaypahari.vercel.app/)              
+<br>    🌱 I’m currently learning Nextjs and Python<br>    💬 Ask me about Reactjs and Nextjs<br>    📫 How to reach me sanjay.pahari098@gmail.com / dev.sanzay@gmail.com<br>    ⚡ Fun fact Banging your head against a wall for one hour burns 150 calories. Thats me when my code doesnt run.<br>    🕸️ [sanjaypahari.com.np](https://sanjaypahari.com.np/)              
 
 
 ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB3Z2dqazNrZGRsN3VmcThzODIwY2wzc2swOWRpNXJ4cG4xcWZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
